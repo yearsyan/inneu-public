@@ -1,5 +1,11 @@
 {
-    "life": [],
     "study": [],
+    "life": [
+        {
+            "name": "校历",
+            "icon": "",
+            "url": "https://cdn.jsdelivr.net/gh/yearsyan/inneu-public/article/neu-calendar-2020-2021.html"
+        }
+    ],
     "other": [] 
 }
