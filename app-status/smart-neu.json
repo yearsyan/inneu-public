@@ -1,0 +1,32 @@
+[
+    {
+        "icon": null,
+        "url": "http://book.neu.edu.cn/booking/page/shengming",
+        "name": "预约中心",
+        "allow_guest": false
+    },
+    {
+        "icon": null,
+        "url": "http://book.neu.edu.cn/booking/page/selectList/shower",
+        "name": "洗浴预约",
+        "allow_guest": false
+    },
+    {
+        "icon": null,
+        "url": "http://book.neu.edu.cn/booking/page/selectPeList",
+        "name": "场馆预约",
+        "allow_guest": false
+    },
+    {
+        "icon": null,
+        "url": "https://pay.neu.edu.cn/drCasLogin",
+        "name": "缴费中心",
+        "allow_guest": false
+    },
+    {
+        "icon": null,
+        "url": "https://e-report.neu.edu.cn/login/neupass/callback",
+        "name": "健康信息上报",
+        "allow_guest": false
+    }
+]
