@@ -28,5 +28,11 @@
         "url": "https://e-report.neu.edu.cn/login/neupass/callback",
         "name": "健康信息上报",
         "allow_guest": false
+    },
+    {
+        "icon": null,
+        "url": "http://hub.17wanxiao.com/cas-dongbei/cas/cjgy/light.action?flag=dongbei_dongbeidaxue&amp;ecardFunc=index",
+        "name": "校园卡",
+        "allow_guest": false
     }
 ]
