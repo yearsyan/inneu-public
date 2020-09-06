@@ -7,11 +7,11 @@
         "history_version": []
     },
     "android": {
-        "version_str": "0.0.2",
+        "version_str": "0.0.1",
         "market_available": false,
         "emergency": true,
         "download_url": "https://img-pool.zxysy.net/appinneu-release-0.0.1.apk",
-        "version_num": 2,
+        "version_num": 1,
         "up_version_num": 0,
         "history_version": [],
         "change_log": ""
