@@ -31,7 +31,7 @@
     },
     {
         "icon": null,
-        "url": "http://hub.17wanxiao.com/cas-dongbei/cas/cjgy/light.action?flag=dongbei_dongbeidaxue&amp;ecardFunc=index",
+        "url": "https://hub.17wanxiao.com/cas-dongbei/cas/cjgy/light.action?flag=dongbei_dongbeidaxue&ecardFunc=index",
         "name": "校园卡",
         "allow_guest": false
     }
