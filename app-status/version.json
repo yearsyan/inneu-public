@@ -7,11 +7,11 @@
         "history_version": []
     },
     "android": {
-        "version_str": "0.0.2",
+        "version_str": "0.0.3",
         "market_available": false,
         "emergency": true,
-        "download_url": "https://d0.ananas.chaoxing.com/download/396755f779e2cb6f31979bca00aef845?fn=inneu-release-0.0.2",
-        "version_num": 2,
+        "download_url": "https://d0.ananas.chaoxing.com/download/0e8fb089957deb951c87644aec21aca5?fn=inneu-release-0.0.3",
+        "version_num": 3,
         "up_version_num": 0,
         "history_version": [],
         "change_log": "修复部分bug"
