@@ -1,5 +1,4 @@
 [
     {"comment":"成绩查询","url":"https://img-pool.zxysy.net/grade_query.png", "nav":"/grade", "need_login": true},
-    {"comment":"刷题大法好","url":"https://img-pool.zxysy.net/quiz_in.png"},
-    {"comment":"放假了","url":"https://img-pool.zxysy.net/fjl.png", "nav": "/gpa-calculator", "need_login": false}
+    {"comment":"开学了","url":"https://https://cdn.jsdelivr.net/gh/yearsyan/inneu-public/static/kxl.jpg", "nav": null, "need_login": false}
 ]
