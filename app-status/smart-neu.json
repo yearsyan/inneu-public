@@ -44,7 +44,7 @@
         "url": "https://wp.neu.edu.cn/tp_wp/h5?act=wp/wxH5/appSquare/16191197769728&tab=app",
         "name": "个人信息门户",
         "allow_guest": false,
-        "native_login": false,
+        "native_login": true,
         "allow_https": true
     }
 ]
