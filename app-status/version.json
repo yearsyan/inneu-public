@@ -7,13 +7,13 @@
         "history_version": []
     },
     "android": {
-        "version_str": "0.0.4",
+        "version_str": "0.1.0",
         "market_available": false,
         "emergency": true,
-        "download_url": "http://d0.ananas.chaoxing.com/download/6e75230ae96627e0a001d9de9aae5b7a?fn=inneu-release-0.0.4",
-        "version_num": 4,
-        "up_version_num": 3,
+        "download_url": "https://d0.ananas.chaoxing.com/download/23ff7d8a7c579734f1c5b3ea73ca8b07?fn=inneu-release-0.1.0",
+        "version_num": 10,
+        "up_version_num": 5,
         "history_version": [],
-        "change_log": "1.修复部分bug\n2.增加部分页面Q&A\n3.更改校园卡首页入口\n4.提高请求成功率"
+        "change_log": "1.修复部分bug\n2.增加桌面小部件Q&A\n3.能够使用研究生账号登录\n4.优化部分UI"
     }
 }
