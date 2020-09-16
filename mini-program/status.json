@@ -1,4 +1,17 @@
 {
-    "serives": [],
-    "isHolday": false
+    "service_status": {
+        "course_status": true,
+        "exam_status": true,
+        "grade_status": true
+    },
+    "semester": {
+        "is_holiday": false,
+        "default_exam_semester": 47,
+        "default_exam_semester_name": "",
+        "default_schedule_semester": 0,
+        "default_schedule_semester_first_Sunday": "2020/09/06",
+        "default_schedule_semester_first_Monday": "2020/09/07",
+        "default_schedule_semester_year": "2020",
+        "default_schedule_semester_year_short": "20"
+    }
 }
