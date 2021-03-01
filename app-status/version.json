@@ -7,13 +7,13 @@
         "history_version": []
     },
     "android": {
-        "version_str": "0.1.1",
+        "version_str": "0.1.2",
         "market_available": false,
         "emergency": true,
-        "download_url": "https://img-pool.zxysy.net/apk/inneu-release-0.1.1.apk",
-        "version_num": 11,
-        "up_version_num": 5,
+        "download_url": "https://img-pool.neuyan.com/inneu-release-0.1.2.apk",
+        "version_num": 12,
+        "up_version_num": 11,
         "history_version": [],
-        "change_log": "1.修复部分bug\n2.增加桌面小部件\n3.能够使用研究生账号登录\n4.优化部分UI"
+        "change_log": "更新学期"
     }
 }
