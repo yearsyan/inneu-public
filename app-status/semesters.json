@@ -1,11 +1,11 @@
 {
-    "grade_semester_id": 54, 
-    "grade_semester_name": "2019-2020学年夏季学期", 
-    "schedule_semester_id": 47, 
-    "schedule_semester_name": "2020-2021学年秋季学期", 
+    "grade_semester_id": 47, 
+    "grade_semester_name": "2020-2021学年秋季学期", 
+    "schedule_semester_id": 48, 
+    "schedule_semester_name": "2020-2021学年春季学期", 
     "exam_semester_id": 31, 
     "exam_semester_name": "2019-2020学年春季学期",
-    "current_semester_name": "2019-2020学年夏季学期",
-    "current_semester_id": 54,
+    "current_semester_name": "2020-2021学年春季学期",
+    "current_semester_id": 48,
     "on_holiday": false
 }
